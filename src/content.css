@@ -1,0 +1,16 @@
+.col-sm img{
+    margin: 2%;
+}
+.card{
+    border: none !important;
+    margin: 2%;
+}
+.card-text{
+    cursor: pointer;
+}
+.price{
+    color: grey;
+}
+h1{
+    text-align: center;
+}
